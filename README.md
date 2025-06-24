@@ -1,35 +1,25 @@
-Happy SVG:
-data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIHhtbG5z
-PSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIx
-MDAiIGZpbGw9InllbGxvdyIgcj0iNzgiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMyIg
-Lz4KICAgIDxnIGNsYXNzPSJleWVzIj4KICAgICAgICA8Y2lyY2xlIGN4PSI3MCIgY3k9IjgyIiBy
-PSIxMiIgLz4KICAgICAgICA8Y2lyY2xlIGN4PSIxMjciIGN5PSI4MiIgcj0iMTIiIC8+CiAgICA8
-L2c+CiAgICA8cGF0aCBkPSJtMTM2LjgxIDExNi41M2MuNjkgMjYuMTctNjQuMTEgNDItODEuNTIt
-LjczIiBzdHlsZT0iZmlsbDpub25lOyBzdHJva2U6IGJsYWNrOyBzdHJva2Utd2lkdGg6IDM7IiAv
-Pgo8L3N2Zz4=
+# Mood NFT
 
-Sag SVG :
-data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAyNHB4IiBoZWlnaHQ9IjEwMjRweCIgdmlld0JveD0iMCAwIDEwMjQgMTAy
-NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGZpbGw9IiMz
-MzMiCiAgICAgICAgZD0iTTUxMiA2NEMyNjQuNiA2NCA2NCAyNjQuNiA2NCA1MTJzMjAwLjYgNDQ4
-IDQ0OCA0NDggNDQ4LTIwMC42IDQ0OC00NDhTNzU5LjQgNjQgNTEyIDY0em0wIDgyMGMtMjA1LjQg
-MC0zNzItMTY2LjYtMzcyLTM3MnMxNjYuNi0zNzIgMzcyLTM3MiAzNzIgMTY2LjYgMzcyIDM3Mi0x
-NjYuNiAzNzItMzcyIDM3MnoiIC8+CiAgICA8cGF0aCBmaWxsPSIjRTZFNkU2IgogICAgICAgIGQ9
-Ik01MTIgMTQwYy0yMDUuNCAwLTM3MiAxNjYuNi0zNzIgMzcyczE2Ni42IDM3MiAzNzIgMzcyIDM3
-Mi0xNjYuNiAzNzItMzcyLTE2Ni42LTM3Mi0zNzItMzcyek0yODggNDIxYTQ4LjAxIDQ4LjAxIDAg
-MCAxIDk2IDAgNDguMDEgNDguMDEgMCAwIDEtOTYgMHptMzc2IDI3MmgtNDguMWMtNC4yIDAtNy44
-LTMuMi04LjEtNy40QzYwNCA2MzYuMSA1NjIuNSA1OTcgNTEyIDU5N3MtOTIuMSAzOS4xLTk1Ljgg
-ODguNmMtLjMgNC4yLTMuOSA3LjQtOC4xIDcuNEgzNjBhOCA4IDAgMCAxLTgtOC40YzQuNC04NC4z
-IDc0LjUtMTUxLjYgMTYwLTE1MS42czE1NS42IDY3LjMgMTYwIDE1MS42YTggOCAwIDAgMS04IDgu
-NHptMjQtMjI0YTQ4LjAxIDQ4LjAxIDAgMCAxIDAtOTYgNDguMDEgNDguMDEgMCAwIDEgMCA5Nnoi
-IC8+CiAgICA8cGF0aCBmaWxsPSIjMzMzIgogICAgICAgIGQ9Ik0yODggNDIxYTQ4IDQ4IDAgMSAw
-IDk2IDAgNDggNDggMCAxIDAtOTYgMHptMjI0IDExMmMtODUuNSAwLTE1NS42IDY3LjMtMTYwIDE1
-MS42YTggOCAwIDAgMCA4IDguNGg0OC4xYzQuMiAwIDcuOC0zLjIgOC4xLTcuNCAzLjctNDkuNSA0
-NS4zLTg4LjYgOTUuOC04OC42czkyIDM5LjEgOTUuOCA4OC42Yy4zIDQuMiAzLjkgNy40IDguMSA3
-LjRINjY0YTggOCAwIDAgMCA4LTguNEM2NjcuNiA2MDAuMyA1OTcuNSA1MzMgNTEyIDUzM3ptMTI4
-LTExMmE0OCA0OCAwIDEgMCA5NiAwIDQ4IDQ4IDAgMSAwLTk2IDB6IiAvPgo8L3N2Zz4=
+This project showcases a novel approach to Non-Fungible Tokens (NFTs) by implementing a dynamic NFT that allows its visual representation to change based on user interaction. The MoodNft contract enables the owner of a token to "flip" its mood between a happy 😊 and a sad 😔 face.
 
-example SVG :data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRw
-Oi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCI+CiAgICA8
-dGV4dCB4PSIwIiB5PSIxNSIgZmlsbD0iYmxhY2siPkhpISBZb3VyIGJyb3dzZXIgZGVjb2RlZCB0
-aGlzPC90ZXh0Pgo8L3N2Zz4=
+**Key Features & Technical Highlights:**
+
+**Dynamic On-Chain Visuals:** Unlike static NFTs, the artwork of each Mood NFT can be altered post-minting by the token owner. This demonstrates a powerful concept of NFTs evolving based on interaction, rather than being fixed at creation.
+100% On-Chain SVG Rendering: The core innovation lies in generating the NFT's SVG (Scalable Vector Graphics) image directly within Solidity. The contract stores the raw SVG definitions and dynamically constructs the image data.
+Base64 Encoding & Data URIs: The SVG content is Base64 encoded on-chain, then embedded into a Base64 encoded JSON metadata string, which is finally returned as a data URI from the tokenURI function. This eliminates reliance on centralized servers for image hosting.
+
+**Decentralized Storage (Conceptual):** By generating the SVG and metadata dynamically on-chain and returning it as a data URI, the NFT's "artwork" is inherently part of the blockchain's state, or fetched directly from it, which aligns with principles of decentralization and censorship resistance. While IPFS is a separate layer, the design minimizes off-chain dependencies for the art itself.
+ERC721 Standard Compliant: The MoodNft contract adheres to the ERC721 token standard, ensuring compatibility with NFT marketplaces and wallets.
+**Built with Foundry:** The project is developed using Foundry, leveraging Forge for robust testing and Cast for command-line interaction with the smart contract.
+
+## Contract Overview:
+The primary contract, MoodNft.sol, includes:
+
+**constructor(string memory happySvg_, string memory sadSvg_):** Initializes the contract with the raw SVG strings for the happy and sad moods.
+**mintNft():** Allows users to mint a new Mood NFT, initially set to a happy mood.
+**flipMood(uint256 tokenId):** A function callable by the token owner to switch the mood of a specific NFT.
+**tokenURI(uint256 tokenId):** An overridden ERC721 function that dynamically generates the full Base64 encoded JSON data URI for the NFT, incorporating its current mood's SVG.
+**Usage & Deployment:**
+**Local Development:** Interact with the contract using Anvil for a local blockchain environment.
+**Testnet Deployment:** The contract can be deployed to public testnets like Sepolia to demonstrate its functionality in a live, decentralized environment.
+This project serves as a strong example of creating truly dynamic and self-contained NFTs entirely on the Ethereum Virtual Machine (EVM).
