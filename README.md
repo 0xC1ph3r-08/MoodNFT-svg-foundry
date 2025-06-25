@@ -23,3 +23,5 @@ The primary contract, MoodNft.sol, includes:
 **Local Development:** Interact with the contract using Anvil for a local blockchain environment.
 **Testnet Deployment:** The contract can be deployed to public testnets like Sepolia to demonstrate its functionality in a live, decentralized environment.
 This project serves as a strong example of creating truly dynamic and self-contained NFTs entirely on the Ethereum Virtual Machine (EVM).
+
+**NOTE**: Tests are not passing because of large string literals (but the implementations of test cases are correct )
